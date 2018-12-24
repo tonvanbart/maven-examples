@@ -7,9 +7,9 @@ import static junit.framework.Assert.assertTrue;
 /**
  * @author Petri Kainulainen
  */
-public class ITDummyTest {
+public class DummyTestIT {
 
-    private static final Logger log = LoggerFactory.getLogger(ITDummyTest.class);
+    private static final Logger log = LoggerFactory.getLogger(DummyTestIT.class);
 
     @Test
     public void dummyTest() {
